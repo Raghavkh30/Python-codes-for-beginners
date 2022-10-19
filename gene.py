@@ -13,3 +13,4 @@ elif name_gene in chromosome3:
     print(f"{name_gene} is found in chromosome 3")
 else:
     print("gene not found")
+    print("amzaing chro,o")
