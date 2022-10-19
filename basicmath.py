@@ -3,6 +3,7 @@ base=10
 height=20
 area=(1/2)*base*height
 print(area)
+print(nice)
 
 #round figure a large 
 number 
