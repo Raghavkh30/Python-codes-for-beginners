@@ -1,6 +1,12 @@
 chromosome1=["BRCA1","her1","her2","vgfr"]
 chromosome2=["cdk1","CDK2","cdk6"]
 chromosome3=["p53","PAX","RB","BCL2","INK4A"]
+chromosome1=["BRCA1","her1","her2","vgfr"]
+chromosome2=["cdk1","CDK2","cdk6"]
+chromosome3=["p53","PAX","RB","BCL2","INK4A"]
+chromosome1=["BRCA1","her1","her2","vgfr"]
+chromosome2=["cdk1","CDK2","cdk6"]
+chromosome3=["p53","PAX","RB","BCL2","INK4A"]
 
 
 name_gene=input("enter a name:")
