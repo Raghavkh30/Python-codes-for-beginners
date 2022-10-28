@@ -1,4 +1,4 @@
-#python allows multiple assignments
+#python allows multiple assignments need nhi nhi mein 
 x=y=z=a=abc=pqr=10;
 print(abc);
 print(x);
